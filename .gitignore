@@ -71,4 +71,4 @@ fabric.properties
 venv/
 
 # configs
-*.ini
+user.ini
